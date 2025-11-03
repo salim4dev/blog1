@@ -1,0 +1,248 @@
+[
+    {
+      "title": "Password Cracking 101",
+      "author": "Ignite Technologies",
+      "cover": "images/library/p2.jpg",
+      "link": "https://drive.google.com/file/d/1_1LmWyRugAYTI3jS3CRbOymdnUErnPRI/preview",
+      "type": ["CyberSecurity", "PenTesting"]
+    },
+    {
+      "title": "Raspberry Pi and Python",
+      "author": "Hans-Petter Halvorsen",
+      "cover": "images/library/raspandpython.jpg",
+      "link": "https://www.halvorsen.blog/documents/programming/python/resources/Raspberry%20Pi%20and%20Python.pdf",
+      "type": ["Iot","Embedded Systems","Programming"]
+    }
+    ,
+    {
+      "title": "Nmap Cookbook: Guide to Network Scanning",
+      "author": "Nicholas Marsh",
+      "cover": "images/library/nmapbook1.jpg",
+      "link": "https://doc.lagout.org/operating%20system%20/linux/Nmap%20Cookbook%20The%20Fat-free%20Guide%20to%20Network%20Scanning.pdf",
+      "type": ["CyberSecurity","Networks"]
+    }
+    ,
+    {
+      "title": "A Developer’s Guide to Building AI Applications",
+      "author": "Elaine Chang and Darren Jeford",
+      "cover": "images/library/ai1.jpg",
+      "link": "https://ittech-news.com/a-developers-guide-to-building-ai-applications-enhance-your-apps-with-ai/United-States/English/pdf/English.pdf",
+      "type": ["Artificial Intelligence"]
+    }
+    ,
+    {
+      "title": "Port Forwarding",
+      "author": "Ignite Technologies",
+      "cover": "images/library/portforwarding.jpg",
+      "link": "https://drive.google.com/file/d/18jE0C70UggP2A2XZvgx6rVJoq4Vfl96C/preview",
+      "type": ["CyberSecurity", "PenTesting", "Networks"]
+    },
+    {
+      "title": "Peer to Peer Networks 202",
+      "author": "Sara Dolnicar",
+      "cover": "images/library/net1.jpg",
+      "link": "https://library.oapen.org/bitstream/handle/20.500.12657/30986/640674.pdf?sequence=1&isAllowed=y",
+      "type": "Networks"
+    }
+    ,
+    {
+      "title": "Ethical Hacking guide",
+      "author": "Rafay Baloch",
+      "cover": "images/library/hacking1.jpg",
+      "link": "https://technicsdotblog.wordpress.com/wp-content/uploads/2018/01/9781482231618.pdf",
+      "type": ["CyberSecurity", "PenTesting"]
+    },
+    {
+      "title": "The Busy Coder's Guide to Android Development",
+      "author": "Mark L. Murphy",
+      "cover": "images/library/android1.jpg",
+      "link": "https://commonsware.com/Android/Android-8.7-CC.pdf",
+      "type": "Mobile"
+    }
+    ,
+    {
+      "title": "A Course in Machine Learning",
+      "author": "Hal Daumé",
+      "cover": "images/library/ml1.jpg",
+      "link": "https://drive.google.com/file/d/10XAtrioVhp0y_TW8M9Q-IIoULg-UiBcp/preview",
+      "type": "Artificial Intelligence"
+    }
+    ,
+    {
+      "title": "Raspberry Pi HandBook",
+      "author": "Raspberry Pi Official Magazine",
+      "cover": "images/library/rasp1.jpg",
+      "link": "https://drive.google.com/file/d/1mddzG7HNGHHpTDZG0pp2KYWf_p_i6Og7/preview",
+      "type": "IoT"
+    }
+    ,
+    {
+      "title": "Internet of Things For Dummies",
+      "author": "John Wiley & Sons",
+      "cover": "images/library/iot1.jpg",
+      "link": "https://www.rfmw.com/data/qorvo-iot-for-dummies-2nd-edition.pdf",
+      "type": "IoT"
+    }
+    ,
+    {
+      "title": "TCP/IP Tutorial and Technical Overview",
+      "author": "Lydia Parziale",
+      "cover": "images/library/net2.jpg",
+      "link": "https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf",
+      "type": "Networks"
+    }
+    ,
+    {
+      "title": "The Second Internet",
+      "author": "Lawrence E. Hughes",
+      "cover": "images/library/net3.jpg",
+      "link": "https://www.ipv6forum.com/dl/books/the_second_internet.pdf",
+      "type": "Networks"
+    }
+    ,
+    {
+      "title": "Learn to Code with JavaScript",
+      "author": "Darren Jones",
+      "cover": "images/library/js1.jpg",
+      "link": "https://dl.ebooksworld.ir/books/Learn.to.Code.With.JavaScript.Darren.Jones.SitePoint.9781925836400.EBooksWorld.ir.pdf",
+      "type": "Programming"
+    },
+    {
+      "title": "Ethical Hacking with Kali Linux",
+      "author": "Hugo Hoffman",
+      "cover": "images/library/hacking2.jpg",
+      "link": "https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Ethical%20Hacking%20With%20Kali%20Linux%20Learn%20Fast%20How%20To%20Hack.pdf",
+      "type": ["CyberSecurity", "PenTesting"]
+    }
+    ,
+    {
+      "title": "Fundamentals of Wireless Communication",
+      "author": "David Tse",
+      "cover": "images/library/wirelesscom1.jpg",
+      "link": "https://web.stanford.edu/~dntse/papers/book121004.pdf",
+      "type": ["Networks"]
+    }
+    ,
+    {
+      "title": "Full Stack Web Development",
+      "author": "Vasan Subramanian",
+      "cover": "images/library/fullstkweb1.jpg",
+      "link": "https://web.archive.org/web/20180219235500id_/http://dl.farinsoft.ir:80/ebooks/Pro-MERN-Stack-Development-Express.pdf",
+      "type": ["Web", "Programming"]
+    }
+    ,
+    {
+      "title": "Python programming for Arduino",
+      "author": "Pratik Desai",
+      "cover": "images/library/arduino1.jpg",
+      "link": "https://athena.ecs.csus.edu/~dahlquid/eee174/S2016/handouts/Labs/ArduinoLab/ArduinoInfo/Python%20Programming%20for%20Arduino.pdf",
+      "type": ["Iot", "Programming"]
+    }
+    
+    ,
+    {
+      "title": "Computer Vision: Algorithms and Applications",
+      "author": "Richard Szeliski",
+      "cover": "images/library/compvision.jpg",
+      "link": "https://library.huree.edu.mn/data/202295/2024-06-03/Computer%20Vision%20-%20Algorithms%20and%20Applications%202nd%20Edition,%20Richard%20Szeliski.pdf",
+      "type": ["Iot", "Programming"]
+    }
+    ,
+    {
+      "title": "Introduction to Embedded Systems",
+      "author": "Tammy Noergaard",
+      "cover": "images/library/embdsystm.jpg",
+      "link": "https://biorobotics.fi-p.unam.mx/wp-content/uploads/dlm_uploads/2020/02/Embedded-Systems-Architecture-A-Comprehensive-Guide-for-Engineers-and-Programmers.pdf",
+      "type": ["Iot", "Embedded Systems"]
+    }
+    ,
+    {
+      "title": "Cryptogaphy for Developers",
+      "author": "Simon Johnson",
+      "cover": "images/library/cryptographyfordevs.jpg",
+      "link": "https://theswissbay.ch/pdf/Gentoomen%20Library/Cryptography/Cryptography%20for%20Developers%20-%20Simon%20Johnson.pdf",
+      "type": ["CyberSecurity"]
+    }
+    ,
+    {
+      "title": "Introduction to Microcontrollers",
+      "author": "Gunther Gridling, Bettina Weiss",
+      "cover": "images/library/microcontrol.jpg",
+      "link": "https://karadev.net/uroci/filespdf/files/Microcontroller.pdf",
+      "type": ["Embedded Systems"]
+    }
+    ,
+    {
+      "title": "Security Practical Guide in the AWS Cloud",
+      "author": "Frankkim Daveshackleford",
+      "cover": "images/library/awssecurity.jpg",
+      "link": "https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Security%20Practical%20Guide%20to%20Security%20in%20the%20AWS%20Cloud.pdf",
+      "type": ["CyberSecurity", "Cloud"]
+    }
+    ,
+    
+    {
+      "title": "Internet of Things with Python",
+      "author": "Hans-Petter Halvorsen",
+      "cover": "images/library/iotpython.jpg",
+      "link": "https://www.halvorsen.blog/documents/programming/python/resources/Internet%20of%20Things%20with%20Python.pdf",
+      "type": ["Iot", "Programming","Embedded Systems"]
+    }
+    ,
+    {
+      "title": "Arduino Projects Book",
+      "author": "Scott Fitzgerald and Michael Shiloh",
+      "cover": "images/library/arduino2.jpg",
+      "link": "https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf",
+      "type": ["Iot", "Programming","Embedded Systems"]
+    }
+    ,
+    {
+      "title": "Client-Server Web Apps with JavaScript and Java",
+      "author": "Gerd Wagner",
+      "cover": "images/library/jsapps.jpg",
+      "link": "https://doc.lagout.org/programmation/Multi-Language/Client-Server%20Web%20Apps%20with%20Javascript%20and%20Java%20%5BSaternos%202014-04-14%5D.pdf",
+      "type": ["Web", "Programming"]
+    }
+    ,
+    {
+      "title": "Express.js Guide",
+      "author": "Azat Mardanov",
+      "cover": "images/library/expressjs.jpg",
+      "link": "https://pepa.holla.cz/wp-content/uploads/2016/08/Express.js-Guide.pdf",
+      "type": ["Web", "Programming"]
+    }
+    ,
+    {
+      "title": "C++ For Embedded Systems",
+      "author": "Scott Meyers",
+      "cover": "images/library/cplusembdsystm.jpg",
+      "link": "https://htrd.su/img/post/2013/03/28/scott_meyers._effective_c_in_an_embedded_environment/effectcppemb.pdf",
+      "type": [ "Programming","Embedded Systems"]
+    }
+    ,
+    {
+      "title": "Intrusion Detection with SNORT: Using Apache, MySQL, PHP",
+      "author": "Rafeeq Ur Rehman",
+      "cover": "images/library/ids1.jpg",
+      "link": "https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0131407333.pdf",
+      "type": [ "Programming","CyberSecurity"]
+    }
+    ,
+    {
+      "title": "React.Native.for.Mobile.Development",
+      "author": "Akshat Paul",
+      "cover": "images/library/reactnative.jpg",
+      "link": "https://dl.ebooksworld.ir/motoman/Apress.React.Native.for.Mobile.Development.2nd.Edition.www.EBooksWorld.ir.pdf",
+      "type": [ "Programming","Mobile"]
+    }
+    ,
+    {
+      "title": "Learning React Native: Building Native Mobile Apps with JavaScript",
+      "author": "Bonnie Eisenman",
+      "cover": "images/library/reactnative2.jpg",
+      "link": "https://pepa.holla.cz/wp-content/uploads/2016/12/Learning-React-Native.pdf",
+      "type": [ "Programming","Mobile"]
+    }
+  ]
+  

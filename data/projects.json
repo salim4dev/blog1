@@ -1,0 +1,202 @@
+[
+  {
+    "title": "My Personal Website",
+    "description": "A modern React + Tailwind personal website showcasing my tech projects, free learning resources, and live Tech News.",
+    "image": "images/projects/personalblog1.PNG",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Websites"]
+  },
+  {
+    "title": "Cyberattack Detection in Drone Networks",
+    "description": "Development of real-time intrusion detection algorithms for UAV communication networks.",
+    "image": "images/projects/dronecyber.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["CyberSecurity", "Networks"]
+  },
+  {
+    "title": "MITM AI Classification",
+    "description": "An AI-powered MITM traffic classification project built and trained on Google Colab, leveraging machine learning to detect and categorize network attacks with high accuracy.",
+    "image": "images/projects/aimitmdetection.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "CyberSecurity"]
+  },
+  {
+    "title": "PhishingURL_AI_Detection",
+    "description": "A machine-learning phishing-URL detector (trained in Google Colab) that analyzes URL features and metadata to flag malicious links with confidence scores and an easy-to-integrate API.",
+    "image": "images/projects/aiurlphishing.png",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "CyberSecurity"]
+  },
+  {
+    "title": "Secure Cloud Infrastructure Deployment on AWS",
+    "description": "Deployed a secure AWS cloud environment with VPC networking, EC2 instances (Apache/Nginx, MySQL, PHP), SSH hardening, S3 storage for backups, and CloudWatch log monitoring.",
+    "image": "images/projects/aws1.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Networks"]
+  },
+  {
+    "title": "Smart Home IoT project with ESP32",
+    "description": "A smart home IoT project powered by ESP32, enabling real-time control and monitoring of connected devices through a secure and responsive interface.",
+    "image": "images/projects/smarthome.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["IoT", "Networks"]
+  },
+  {
+    "title": "Steganography & Encryption App",
+    "description": "An app for securely hiding and encrypting images or files using password protection.",
+    "image": "images/projects/stegano-encrypt-app.PNG",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Apps", "CyberSecurity"]
+  },
+  {
+    "title": "AI Model for Age Estimation",
+    "description": "A deep learning project trained on Google Colab that predicts a person’s age from facial images using convolutional neural networks for accurate and efficient estimation.",
+    "image": "images/projects/age1.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  },
+  {
+    "title": "Personal Tech News Blog",
+    "description": "A personal blog to share technology news, tutorials, and cybersecurity trends.",
+    "image": "images/projects/tech-blog.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Websites"]
+  },
+  {
+    "title": "IoT-based ESP32 vehicle",
+    "description": "An IoT-based ESP32 vehicle monitoring system featuring a real-time dashboard for tracking sensor data, performance metrics, and remote vehicle control.",
+    "image": "images/projects/iotvehicledash.PNG",
+    "github": "#",
+    "demo": "#",
+    "tags": ["IoT", "ComputerVision"]
+  },
+  {
+    "title": "HandGesture Controled Game",
+    "description": "A hand-gesture–controlled game built with Python and Processing that uses real-time gesture recognition to drive immersive, intuitive gameplay.",
+    "image": "images/projects/gamecontrol1.gif",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  },
+  {
+    "title": "A Secure Corporate Network using Cisco Packet Tracer",
+    "description": "A secure network architecture featuring segmentation, routing, and addressing; a fully configured DMZ and ACL-based traffic filtering, and a secure remote access via IPsec VPN tunnels.",
+    "image": "images/projects/securenetwork1.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Networks", "CyberSecurity"]
+  },
+  {
+    "title": "Fullstack Task Management app with React & Node.js",
+    "description": "Secure task management tool built with TypeScript, designed for teams and personal productivity.",
+    "image": "images/projects/taskmanager.PNG",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Websites", "Apps"]
+  },
+  {
+    "title": "YOLOv8 Object Detection",
+    "description": "A YOLOv8-based object detection project that leverages deep learning to accurately identify and track multiple objects in real time from images or video streams.",
+    "image": "images/projects/objdetect2.png",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  },
+  {
+    "title": "3D Solutions Website",
+    "description": "Corporate website for a company specializing in 3D design, modeling, and printing services.",
+    "image": "images/projects/3d-solutions.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Websites"]
+  },
+  {
+    "title": "End-to-End Encrypted Messenger",
+    "description": "A secure messaging application offering end-to-end encryption and advanced privacy controls.",
+    "image": "images/projects/secure-messenger-app.png",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Apps", "CyberSecurity"]
+  },
+  {
+    "title": "E-commerce Website",
+    "description": "Design and development of a complete online shop with product management and secure checkout.",
+    "image": "images/projects/ecommerce-site.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Websites"]
+  },
+  {
+    "title": "NotesEveryWhere App",
+    "description": "A full-stack note-taking application featuring a RESTful API connected to a MySQL database, with secure cloud-style backup and synchronization to access notes anywhere, anytime.",
+    "image": "images/projects/noteseverywhere-app.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Apps"]
+  },
+  {
+    "title": "SecureFill Extension",
+    "description": "A browser extension to securely auto-complete forms using encrypted templates.",
+    "image": "images/projects/form-autofill-extension.png",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Apps"]
+  },
+  {
+    "title": "Embedded IoT Control App",
+    "description": "A mobile app to control embedded systems via WiFi and Bluetooth connections.",
+    "image": "images/projects/iot-control-app.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Apps"]
+  },
+  {
+    "title": "AI Handwriting OCR",
+    "description": "A deep learning project that converts handwritten text into digital form using OCR models trained on Google Colab for fast and accurate handwriting recognition.",
+    "image": "images/projects/ocr.png",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  },
+  {
+    "title": "AI Object Tracking System",
+    "description": "An object tracking project designed in PyCharm with OpenCV, optimized for Raspberry Pi and ESP32 setups to detect and follow moving objects in real-time video streams.",
+    "image": "images/projects/objtrack1.gif",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  },
+  {
+    "title": "Memory Flip Game (Android)",
+    "description": "A fun and colorful memory card game built with React Native and Expo.",
+    "image": "images/projects/memoryflip.PNG",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Apps"]
+  },
+  {
+    "title": "AI Face Detection",
+    "description": "A lightweight face detection system developed in PyCharm using OpenCV, perfectly suited for Raspberry Pi and ESP32 cameras, enabling real-time recognition and automation features.",
+    "image": "images/projects/facedetect1.jpg",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  },
+  {
+    "title": "AI Color Detector",
+    "description": "A real-time color detection tool built with Python in PyCharm, ideal for Raspberry Pi or ESP32 integration, identifying and displaying colors from live camera feeds or images.",
+    "image": "images/projects/colordetect1.PNG",
+    "github": "#",
+    "demo": "#",
+    "tags": ["AI", "ComputerVision"]
+  }
+]
